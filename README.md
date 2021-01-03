@@ -10,3 +10,31 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 ## Programming
 
 Here is my Data Structure implementation in C [link](https://github.com/AnuragAnalog/dfs)
+
+## Topics
+
+### Aptitude
+
+### Engineering Mathematics
+
+### Digital Logic
+
+### Computer Organization and Architecture
+
+### Programming and Data Structures
+
+#### Videos
+
+* [Jenny's lectures CS/IT NET&JRF:- Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+
+### Algorithms
+
+### Theory of Computation
+
+### Compiler Design
+
+### Operating System
+
+### Databases
+
+### Computer Networks
