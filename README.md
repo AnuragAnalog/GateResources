@@ -7,7 +7,7 @@ Revision notes [link](https://drive.google.com/drive/folders/18D2LCHf1fdg49qE935
 
 My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV6pAJazNy?usp=sharing) of resources
 
-## Programming
+## Code Links
 
 Here is my Data Structure implementation in C [link](https://github.com/AnuragAnalog/dfs)
 
@@ -19,9 +19,18 @@ Here is my Data Structure implementation in C [link](https://github.com/AnuragAn
 
 ### Digital Logic
 
+#### Videos
+
+* [Floating Point Number](https://www.youtube.com/watch?v=XOMTNy2qiZ0)
+
 ### Computer Organization and Architecture
 
 ### Programming and Data Structures
+
+#### Videos
+
+* [Tower of Hanoi](https://www.youtube.com/watch?v=q6RicK1FCUs)
+* [Tail Recursion](https://www.youtube.com/watch?v=HIt_GPuD7wk)
 
 #### Videos
 
