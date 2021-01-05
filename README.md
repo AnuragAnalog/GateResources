@@ -9,7 +9,9 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 ## Code Links
 
-Here is my Data Structure implementation in C [link](https://github.com/AnuragAnalog/dfs)
+* Data Structure implementation in C [link](https://github.com/AnuragAnalog/dfs)
+* Scheduler with a few scheduling algorithms [link](https://github.com/AnuragAnalog/os_assign/tree/master/scheduler) 
+* Memory Management Simultor [link](https://github.com/AnuragAnalog/os_assign/tree/master/memory_management)
 
 ## Topics
 
