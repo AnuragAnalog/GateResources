@@ -46,6 +46,11 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 ### Operating System
 
+#### Videos
+
+* [Memory Design Horizontal Scaling](https://www.youtube.com/watch?v=iyTxhDPPBXA)
+* [Memory Design Vertical Scaling](https://www.youtube.com/watch?v=OzXUpk8yiWs)
+
 ### Databases
 
 ### Computer Networks
