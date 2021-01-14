@@ -19,6 +19,10 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 ### Engineering Mathematics
 
+#### Videos
+
+* [Connected Components](https://www.youtube.com/watch?v=9esCn0awd5k)
+
 ### Digital Logic
 
 #### Videos
