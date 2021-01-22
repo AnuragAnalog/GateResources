@@ -57,4 +57,8 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 ### Databases
 
+#### Code
+
+* [MySQL Cheatsheet](https://github.com/Cheatsheet-lang/MySQL-cheatsheet)
+
 ### Computer Networks
