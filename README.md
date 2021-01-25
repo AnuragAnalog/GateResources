@@ -7,12 +7,6 @@ Revision notes [link](https://drive.google.com/drive/folders/18D2LCHf1fdg49qE935
 
 My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV6pAJazNy?usp=sharing) of resources
 
-## Code Links
-
-* Data Structure implementation in C [link](https://github.com/AnuragAnalog/dfs)
-* Scheduler with a few scheduling algorithms [link](https://github.com/AnuragAnalog/os_assign/tree/master/scheduler) 
-* Memory Management Simultor [link](https://github.com/AnuragAnalog/os_assign/tree/master/memory_management)
-
 ## Topics
 
 ### Aptitude
@@ -33,6 +27,10 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 ### Programming and Data Structures
 
+#### Code
+
+* [Data Structure implementation in C](https://github.com/AnuragAnalog/dfs)
+
 #### Videos
 
 * [Tower of Hanoi](https://www.youtube.com/watch?v=q6RicK1FCUs)
@@ -50,6 +48,11 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 ### Operating System
 
+#### Code
+
+* [Scheduler with a few scheduling algorithms](https://github.com/AnuragAnalog/os_assign/tree/master/scheduler)
+* [Memory Management Simultor](https://github.com/AnuragAnalog/os_assign/tree/master/memory_management)
+
 #### Videos
 
 * [Memory Design Horizontal Scaling](https://www.youtube.com/watch?v=iyTxhDPPBXA)
@@ -62,6 +65,7 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 * [Jenny's lectures CS/IT NET&JRF:- Database and Management System](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
 * [ER-diagram to Table](https://www.youtube.com/watch?v=7LRH7DY1QbQ)
 * [Correlated Queries](https://www.youtube.com/watch?v=SM9cDMxAeK4)
+* [Database Normalization](https://www.youtube.com/playlist?list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3)
 
 #### Code
 
