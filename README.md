@@ -3,9 +3,12 @@
 These notes are from Gate Applied AI.
 I have used these notes as a warmup
 
-Revision notes [link](https://drive.google.com/drive/folders/18D2LCHf1fdg49qE935O6FeXFDtdh7mHA?usp=sharing)
+Study notes [link](https://drive.google.com/drive/folders/18D2LCHf1fdg49qE935O6FeXFDtdh7mHA?usp=sharing)
 
 My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV6pAJazNy?usp=sharing) of resources
+
+Under each topic I have also included the links of the some video playlists which I found easy to understand.
+> These are not the only videos which can be used
 
 ## Topics
 
@@ -46,6 +49,10 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 ### Compiler Design
 
+#### Videos
+
+* [Gate Smashers:- Compiler Design](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc)
+
 ### Operating System
 
 #### Code
@@ -75,4 +82,4 @@ My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV
 
 #### Videos
 
-* [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+* [Neso Academy:- Computer Networks](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
