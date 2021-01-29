@@ -13,6 +13,7 @@ Under each topic I have also included the links of the some video playlists whic
 
 * [Aptitude](https://archive.org/details/gate-notes-aptitude)
 * [Engineering Mathematics](https://archive.org/details/gate-notes-engineering-mathematics)
+* [Discrete Mathematics](https://archive.org/details/gate-notes-discrete-mathematics)
 * [Digital Logic](https://archive.org/details/gate-notes-digital-logic)
 * [Computer Organization and Architecture](https://archive.org/details/gate-notes-coa)
 * [C Programming](https://archive.org/details/gate-notes-c-programming)
@@ -27,6 +28,10 @@ Under each topic I have also included the links of the some video playlists whic
 ## Topics
 
 ### Aptitude
+
+#### Videos
+
+* [Neso Academy:- Aptitude](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhMP7gwIe2j0hb1PCvYn0RI)
 
 ### Engineering Mathematics
 
@@ -50,14 +55,11 @@ Under each topic I have also included the links of the some video playlists whic
 
 #### Videos
 
+* [Jenny's lectures CS/IT NET&JRF:- Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 * [Neso Academy:- Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
 * [Neso Academy:- C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 * [Tower of Hanoi](https://www.youtube.com/watch?v=q6RicK1FCUs)
 * [Tail Recursion](https://www.youtube.com/watch?v=HIt_GPuD7wk)
-
-#### Videos
-
-* [Jenny's lectures CS/IT NET&JRF:- Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 
 ### Algorithms
 
@@ -88,16 +90,16 @@ Under each topic I have also included the links of the some video playlists whic
 
 ### Databases
 
+#### Code
+
+* [MySQL Cheatsheet](https://github.com/Cheatsheet-lang/MySQL-cheatsheet)
+
 #### Videos
 
 * [Jenny's lectures CS/IT NET&JRF:- Database and Management System](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
 * [ER-diagram to Table](https://www.youtube.com/watch?v=7LRH7DY1QbQ)
 * [Correlated Queries](https://www.youtube.com/watch?v=SM9cDMxAeK4)
 * [Database Normalization](https://www.youtube.com/playlist?list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3)
-
-#### Code
-
-* [MySQL Cheatsheet](https://github.com/Cheatsheet-lang/MySQL-cheatsheet)
 
 ### Computer Networks
 
