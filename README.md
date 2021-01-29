@@ -50,6 +50,8 @@ Under each topic I have also included the links of the some video playlists whic
 
 #### Videos
 
+* [Neso Academy:- Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
+* [Neso Academy:- C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 * [Tower of Hanoi](https://www.youtube.com/watch?v=q6RicK1FCUs)
 * [Tail Recursion](https://www.youtube.com/watch?v=HIt_GPuD7wk)
 
@@ -60,6 +62,10 @@ Under each topic I have also included the links of the some video playlists whic
 ### Algorithms
 
 ### Theory of Computation
+
+#### Videos
+
+* [Neso Academy:- Theory of Computation](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
 ### Compiler Design
 
@@ -76,6 +82,7 @@ Under each topic I have also included the links of the some video playlists whic
 
 #### Videos
 
+* [Neso Academy:- Operating Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 * [Memory Design Horizontal Scaling](https://www.youtube.com/watch?v=iyTxhDPPBXA)
 * [Memory Design Vertical Scaling](https://www.youtube.com/watch?v=OzXUpk8yiWs)
 
