@@ -1,14 +1,28 @@
 # Gate Resources
 
-These notes are from Gate Applied AI.
-I have used these notes as a warmup
+These notes are from Gate Applied AI and for Computer and Information Sciences.
 
-Study notes [link](https://drive.google.com/drive/folders/18D2LCHf1fdg49qE935O6FeXFDtdh7mHA?usp=sharing)
+I have uploaded in [archive.org](https://archive.org) so that everyone can easily access them. You can also download the complete GATE CSE syllabus notes at this link: [https://archive.org/details/gate-applied-ai-notes](https://archive.org/details/gate-applied-ai-notes)
 
-My Drive [link](https://drive.google.com/drive/folders/1HRMUb8fsbHmV95OYuk6KxKBV6pAJazNy?usp=sharing) of resources
+> Complete syllabus file is huge (530 MB)
 
 Under each topic I have also included the links of the some video playlists which I found easy to understand.
 > These are not the only videos which can be used
+
+## Syllabus
+
+* [Aptitude](https://archive.org/details/gate-notes-aptitude)
+* [Engineering Mathematics](https://archive.org/details/gate-notes-engineering-mathematics)
+* [Digital Logic](https://archive.org/details/gate-notes-digital-logic)
+* [Computer Organization and Architecture](https://archive.org/details/gate-notes-coa)
+* [C Programming](https://archive.org/details/gate-notes-c-programming)
+* [Data Structures](https://archive.org/details/gate-notes-data-structures)
+* [Algorithms](https://archive.org/details/gate-notes-algorithms)
+* [Theory of Computation](https://archive.org/details/gate-notes-theory-of-computation)
+* [Compiler Design](https://archive.org/details/gate-notes-compiler-design)
+* [Operating System](https://archive.org/details/gate-notes-operating-systems)
+* [Databases](https://archive.org/details/gate-notes-databases)
+* [Computer Networks](https://archive.org/details/gate-notes-computer-networks)
 
 ## Topics
 
