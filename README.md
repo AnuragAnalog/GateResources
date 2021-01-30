@@ -106,3 +106,7 @@ Under each topic I have also included the links of the some video playlists whic
 #### Videos
 
 * [Neso Academy:- Computer Networks](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+
+## Simple Tricks
+
+* [Linear Algebra](https://youtu.be/eVZX1VDC_As)
