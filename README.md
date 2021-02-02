@@ -43,6 +43,7 @@ Under each topic I have also included the links of the some video playlists whic
 
 #### Videos
 
+* [K-maps with don't care](https://www.youtube.com/watch?v=_F9nAb6m4U4)
 * [Floating Point Number](https://www.youtube.com/watch?v=XOMTNy2qiZ0)
 
 ### Computer Organization and Architecture
@@ -73,6 +74,7 @@ Under each topic I have also included the links of the some video playlists whic
 
 #### Videos
 
+* [Runtime Environment](https://www.youtube.com/watch?v=GwuYLFZNu4M)
 * [Gate Smashers:- Compiler Design](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc)
 
 ### Operating System
@@ -97,7 +99,8 @@ Under each topic I have also included the links of the some video playlists whic
 #### Videos
 
 * [Jenny's lectures CS/IT NET&JRF:- Database and Management System](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
-* [ER-diagram to Table](https://www.youtube.com/watch?v=7LRH7DY1QbQ)
+* [ER-diagram to Table 1](https://www.youtube.com/watch?v=0EXfb3HzBTs)
+* [ER-diagram to Table 2](https://www.youtube.com/watch?v=7LRH7DY1QbQ)
 * [Correlated Queries](https://www.youtube.com/watch?v=SM9cDMxAeK4)
 * [Database Normalization](https://www.youtube.com/playlist?list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3)
 
